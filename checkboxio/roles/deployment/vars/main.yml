@@ -1,5 +1,4 @@
 ---
-git_repo: github.com/vivekbhat/checkboxio.git
 home_path: /home/vagrant
 nginx_sites_path: /etc/nginx/sites-enabled/default
 nginx_config_path: /etc/nginx/nginx.conf
