@@ -1,7 +1,7 @@
 ---
 - name: Cloning repository
   git:
-    repo: "{{git_repo}}"
+    repo: "https://github.com/VivekBhat/checkboxio.git"
     dest: "{{home_path}}/checkbox.io"
 
 - name: Create mongodb Database and User
