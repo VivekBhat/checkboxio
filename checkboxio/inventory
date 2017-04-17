@@ -1,0 +1,4 @@
+[checkboxio]
+checkboxio ansible_ssh_host=192.241.143.154 ansible_ssh_user=root
+[jenkins]
+jenkins ansible_ssh_host=67.205.161.49 ansible_ssh_user=root
