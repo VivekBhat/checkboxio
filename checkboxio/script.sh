@@ -2,4 +2,4 @@
 pwd
 ls
 cd /var/lib/jenkins/workspace/check.io/checkboxio/
-ansible-playbook main.yml -i inventory --private-key do
+ansible-playbook main.yml -i inventory --private-key /var/lib/jenkins/workspace/check.io/checkboxio/do
